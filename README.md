@@ -108,9 +108,7 @@ nyc-taxi-trip-duration/
 
 ## Demo
 <p align="center">
-  <img src="https://github.com/AO2004/nyc-taxi-trip-duration/issues/1#issue-4921895760"
-       alt="Project Demo"
-       width="900">
+  <img width="1911" height="1017" alt="Image" src="https://github.com/user-attachments/assets/03a2f025-285a-4360-aab2-422020dd125b" />
 </p>
 ---
 
