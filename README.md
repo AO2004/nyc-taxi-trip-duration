@@ -107,9 +107,12 @@ nyc-taxi-trip-duration/
 ---
 
 ## Demo
-
+<p align="center">
+  <img src="https://github.com/AO2004/nyc-taxi-trip-duration/issues/1#issue-4921895760"
+       alt="Project Demo"
+       width="900">
+</p>
 ---
-
 
 
 ## Resources
