@@ -82,6 +82,11 @@ nyc-taxi-trip-duration/
 ├── src/
 │   ├── feature_engineering.py
 │   |__ inference.py
+├── models/
+│   ├── kmeans_model.joblib
+|   ├── main_model.joblib
+|   ├── metadata.json   
+│   |__ preprocessor.joblib
 └── README.md
 ```
 
