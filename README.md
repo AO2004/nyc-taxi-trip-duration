@@ -74,14 +74,13 @@ The close train, validation, and test scores indicate good generalization with m
 ## Repository Structure
 
 ```
-.
-├── notebook.ipynb
-├── train.py
-├── predict.py
-├── feature_engineering.py
-├── preprocessing.py
-├── models/
-├── saved_models/
+nyc-taxi-trip-duration/
+├── notebooks/
+│   ├── EDA.ipynb
+│   |__ trainer.ipynb
+├── src/
+│   ├── feature_engineering.py
+│   |__ inference.py
 └── README.md
 ```
 
@@ -106,6 +105,12 @@ The close train, validation, and test scores indicate good generalization with m
 - Additional geospatial features
 
 ---
+
+## Demo
+
+---
+
+
 
 ## Resources
 * eda template: https://www.kaggle.com/code/bextuychiev/my-6-part-powerful-eda-template
