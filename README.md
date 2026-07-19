@@ -50,6 +50,7 @@ Engineered features include:
 - One-Hot Encoding for categorical features
 - Standard Scaling for numerical features
 - Polynomial interaction features
+- Kmeans clustering(discretization)
 
 ---
 
