@@ -38,6 +38,8 @@ Engineered features include:
 - Day of month
 - Month
 - Weekend indicator
+- rush hour
+- busy hour
 - Combined weekday-hour feature
 - Pickup & dropoff K-Means clusters
 
